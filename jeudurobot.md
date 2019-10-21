@@ -1,4 +1,4 @@
-# jeu du robot
+# Jeu du robot
 
 ## Exemples
 
