@@ -1,6 +1,5 @@
-## Équipe roboHiboux de l'école élémentaire Marie-Curie, à London en Ontario.
-
-Défi Ville Avenir 2019 de la Ligue Lego First.
+## Équipe roboHiboux - Défi Ville Avenir Ligue Lego First
+(de l'école élémentaire Marie-Curie, à London en Ontario.)
 
 ## jeu du robot
 
