@@ -1,6 +1,8 @@
 ## Bonjours
 
-Voice le site web pour la Ligue Lego First de l'École élémentaire Marie-Curie.
+Voice le site web pour l'equipe roboHiboux (Ligue Lego First) de l'École élémentaire Marie-Curie, à London en Ontario.à
+
+## Robo
 
 ### Exemples
 
@@ -11,11 +13,6 @@ Voice le site web pour la Ligue Lego First de l'École élémentaire Marie-Curie
 * [Vis de Chien](https://www.youtube.com/watch?v=NZbt3tnySyI) (Dog Gear)
 * [Conduire droit avec le gyroscope](https://www.youtube.com/watch?v=qPE4YNsTad4) (Drive Straight with the Gyro)
 * [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs) (Proportional Line Follower)
-
-
-
-
-
 
 ## Sites FLL
 
