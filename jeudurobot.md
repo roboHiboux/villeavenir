@@ -21,6 +21,10 @@
 * [Conduire droit avec le gyroscope](https://www.youtube.com/watch?v=qPE4YNsTad4) (Drive Straight with the Gyro)
 * [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs) (Proportional Line Follower)
 
-### logiciels optionelles
+### [M. Hinos](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ)
+* [2019 City Shaper Missions and Points Explanation Video!!](https://www.youtube.com/watch?v=JL-0YojPWmM)
+
+### logiciels gratuits
 * [LEGO MINDSTORMS Education EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software)
 * [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation)
+* [Lego Digital Designer](https://www.lego.com/en-us/ldd)
