@@ -3,7 +3,7 @@
 
 ## [Jeu du robot](jeudurobot.md)
 
-## [Valeurs fondamentales](valuers.md)
+## [Valeurs fondamentales](valeurs.md)
 
 ## [Projet recherche](recherche.md)
 
