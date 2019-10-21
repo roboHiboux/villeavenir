@@ -14,6 +14,7 @@
 * [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs) (Proportional Line Follower)
 
 ### logiciels
+* [LEGO MINDSTORMS Education EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software)
 * [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation)
 
 ## Valeurs fondamentales
