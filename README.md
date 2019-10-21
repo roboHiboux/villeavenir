@@ -15,7 +15,7 @@
 * [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs) (Proportional Line Follower)
 
 ### logiciels
-* [Virtual Robotics Toolkit (VRT)] (https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation)
+* [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation)
 
 ## Sites FLL
 
