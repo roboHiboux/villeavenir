@@ -6,7 +6,7 @@ Voice le site web pour l'equipe roboHiboux (Ligue Lego First) de l'École élém
 
 ### Exemples
 
-* [FLL City Shaper - 370 Points](https://www.youtube.com/watch?v=zhxjdhFBTmo)
+* [HAL-9000 Robotics - 370 Points](https://www.youtube.com/watch?v=zhxjdhFBTmo)
 
 ### [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
 * [Vis sans fin](https://www.youtube.com/watch?v=TQ9hQ_ZXwmM) (Worm Gear)
