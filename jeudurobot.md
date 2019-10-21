@@ -13,3 +13,8 @@
 ### logiciels
 * [LEGO MINDSTORMS Education EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software)
 * [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation)
+
+#### Mission Grue
+* [Leçons de robotique pour la mission Grue en EV3](https://robotiquefirstquebec.org/wp-content/uploads/VilleAvenirLecons.pdf)
+* [Solution pour la mission Grue en EV3](http://firstinspiresst01.blob.core.windows.net/fll/2020/crane-mission-ev3-soluton.pdf)
+* [Programme pour la mission Grue en EV3](http://firstinspiresst01.blob.core.windows.net/fll/2020/fll2019-ev3-sol.ev3)
