@@ -5,6 +5,6 @@
 
 ## [Valeurs fondamentales](valeurs.md)
 
-## [Projet recherche](recherche.md)
+## [Projet recherche](projet.md)
 
 ## [Sites FLL](liens.md)
