@@ -17,11 +17,12 @@
 * [capteur gyroscopique](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-gyro-sensor-driving-base-a521f8ebe355c281c006418395309e15.pdf)
 * [protéger le robot pour competition](http://firstinspiresst01.blob.core.windows.net/fll/2020/crane-mission-ev3-soluton.pdf)
 
+([Autres instructions de construction pour robot éducateur](https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions#program-core))
+
 #### logiciel
 * [Leçons de pratique](https://robotiquefirstquebec.org/wp-content/uploads/VilleAvenirLecons.pdf)
 * [Programme](http://firstinspiresst01.blob.core.windows.net/fll/2020/fll2019-ev3-sol.ev3)
 
-([Autres instructions de construction pour robot éducateur](https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions#program-core))
 
 ### [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
 * [Vis sans fin](https://www.youtube.com/watch?v=TQ9hQ_ZXwmM) (Worm Gear)
