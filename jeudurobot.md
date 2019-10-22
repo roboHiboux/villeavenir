@@ -11,9 +11,14 @@
 ## Programmation
 
 #### Mission Grue
-* [Leçons de robotique pour la mission Grue en EV3](https://robotiquefirstquebec.org/wp-content/uploads/VilleAvenirLecons.pdf)
-* [Solution pour la mission Grue en EV3](http://firstinspiresst01.blob.core.windows.net/fll/2020/crane-mission-ev3-soluton.pdf)
-* [Programme pour la mission Grue en EV3](http://firstinspiresst01.blob.core.windows.net/fll/2020/fll2019-ev3-sol.ev3)
+* [Leçons de pratique](https://robotiquefirstquebec.org/wp-content/uploads/VilleAvenirLecons.pdf)
+* [robot de  base](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-rem-driving-base-79bebfc16bd491186ea9c9069842155e.pdf)
+* [élévateur utilisant moteur moyen](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-medium-motor-driving-base-e66e2fc0d917485ef1aa023e8358e7a7.pdf) (medium motor lifter)
+* [capteur gyroscopique](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-gyro-sensor-driving-base-a521f8ebe355c281c006418395309e15.pdf)
+* [élévateur pour robot](http://firstinspiresst01.blob.core.windows.net/fll/2020/crane-mission-ev3-soluton.pdf)
+* [Programme](http://firstinspiresst01.blob.core.windows.net/fll/2020/fll2019-ev3-sol.ev3)
+
+([Autres instructions de construction pour robot éducateur](https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions#program-core))
 
 ### [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
 * [Vis sans fin](https://www.youtube.com/watch?v=TQ9hQ_ZXwmM) (Worm Gear)
