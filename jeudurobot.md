@@ -23,7 +23,7 @@
 * [Leçons de pratique](https://robotiquefirstquebec.org/wp-content/uploads/VilleAvenirLecons.pdf)
 * [Programme complet](http://firstinspiresst01.blob.core.windows.net/fll/2020/fll2019-ev3-sol.ev3)
 
-### [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
+### Video d'instruction de [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
 * [Vis sans fin](https://www.youtube.com/watch?v=TQ9hQ_ZXwmM) (Worm Gear)
 * [Vis de Chien](https://www.youtube.com/watch?v=NZbt3tnySyI) (Dog Gear)
 * [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs)
@@ -32,7 +32,7 @@
 
 #### Ordinateur portatif seulment (ne marche pas avec tablet Apple!)
 * [capteur gyroscopique](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-gyro-sensor-driving-base-a521f8ebe355c281c006418395309e15.pdf)
-* [Conduire droit avec le gyroscope](https://www.youtube.com/watch?v=qPE4YNsTad4)
+* [Conduire droit avec le gyroscope](https://www.youtube.com/watch?v=qPE4YNsTad4) ( [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g) )
 * [Block Gyro](https://www.lego.com/cdn/cs/set/assets/blt8da4f23ee86f8986/Gyro.ev3b) ( [voire page de Téléchargement Lego](https://www.lego.com/en-us/themes/mindstorms/downloads) )
 
 <hr>
