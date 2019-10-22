@@ -28,13 +28,14 @@
 * [Vis de Chien](https://www.youtube.com/watch?v=NZbt3tnySyI) (Dog Gear)
 * [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs)
 
-=====================================================================
+<hr>
 
 #### Ordinateur portatif seulment (ne marche pas avec tablet Apple!)
 * [capteur gyroscopique](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-gyro-sensor-driving-base-a521f8ebe355c281c006418395309e15.pdf)
 * [Conduire droit avec le gyroscope](https://www.youtube.com/watch?v=qPE4YNsTad4)
-* [Block Gyro](https://www.lego.com/cdn/cs/set/assets/blt8da4f23ee86f8986/Gyro.ev3b) ( [voire page de Téléchargement Lego](https://www.lego.com/en-us/themes/mindstorms/downloads )
-=====================================================================
+* [Block Gyro](https://www.lego.com/cdn/cs/set/assets/blt8da4f23ee86f8986/Gyro.ev3b) ( [voire page de Téléchargement Lego](https://www.lego.com/en-us/themes/mindstorms/downloads) )
+
+<hr>
 
 ### logiciels gratuits
 * [LEGO MINDSTORMS Education EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software) (logicielle qu'on utilise à l'école)
