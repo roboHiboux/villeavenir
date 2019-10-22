@@ -23,7 +23,7 @@
 * [Leçons de pratique](https://robotiquefirstquebec.org/wp-content/uploads/VilleAvenirLecons.pdf)
 * [Programme complet](http://firstinspiresst01.blob.core.windows.net/fll/2020/fll2019-ev3-sol.ev3)
 
-### Video d'instruction de [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
+### Videos d'instruction de [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
 * [Vis sans fin](https://www.youtube.com/watch?v=TQ9hQ_ZXwmM) (Worm Gear)
 * [Vis de Chien](https://www.youtube.com/watch?v=NZbt3tnySyI) (Dog Gear)
 * [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs)
