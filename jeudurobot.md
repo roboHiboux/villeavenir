@@ -23,8 +23,8 @@
 ### [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
 * [Vis sans fin](https://www.youtube.com/watch?v=TQ9hQ_ZXwmM) (Worm Gear)
 * [Vis de Chien](https://www.youtube.com/watch?v=NZbt3tnySyI) (Dog Gear)
-* [Conduire droit avec le gyroscope](https://www.youtube.com/watch?v=qPE4YNsTad4) (Drive Straight with the Gyro)
-* [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs) (Proportional Line Follower)
+* [Conduire droit avec le gyroscope](https://www.youtube.com/watch?v=qPE4YNsTad4)
+* [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs)
 
 ### [M. Hinos](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ)
 * [2019 City Shaper Missions and Points Explanation Video!!](https://www.youtube.com/watch?v=JL-0YojPWmM)
