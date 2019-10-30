@@ -12,7 +12,7 @@
 
 ## Programmation
 
-### Mission Grue
+### Mission Grue (exemple de mission)
 #### robot
 * [robot de  base](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-rem-driving-base-79bebfc16bd491186ea9c9069842155e.pdf)
 * [élévateur utilisant moteur moyen](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-medium-motor-driving-base-e66e2fc0d917485ef1aa023e8358e7a7.pdf)
@@ -35,6 +35,10 @@
 * [capteur gyroscopique](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-gyro-sensor-driving-base-a521f8ebe355c281c006418395309e15.pdf)
 * [Conduire droit avec le gyroscope](https://www.youtube.com/watch?v=qPE4YNsTad4) ( [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g) )
 * [Block Gyro](https://www.lego.com/cdn/cs/set/assets/blt8da4f23ee86f8986/Gyro.ev3b) ( [voire page de Téléchargement Lego](https://www.lego.com/en-us/themes/mindstorms/downloads) )
+
+<hr>
+
+[Guide du débutant de FIRST LEGO League](http://flltutorials.com/translations/en-us/Worksheets/BeginnersGuide.pdf)
 
 <hr>
 
