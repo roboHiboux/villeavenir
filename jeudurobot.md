@@ -3,7 +3,7 @@
 ### Missions
 
 * [Calculateur de pointage des missions](http://komurobo.com/projets/fll/ville-avenir/)
-* [Feuille de travail stratégique de ville d’avenir](City Shaper Strategy Sheet.pdf)
+* [Feuille de travail stratégique de ville d’avenir](CityShaperStrategySheet.pdf)
 
 ### Autres équipes
 
