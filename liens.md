@@ -1,9 +1,9 @@
 ## Sites FLL
 
 ### [firstroboticscanada](https://www.firstroboticscanada.org/fll/)
-#### [CITY SHAPER resources](https://www.firstinspires.org/resource-library/fll/challenge-and-resources)
-* [Challenge](https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-challenge.pdf)
-* [Challenge Updates (updated October 7, 2019)](https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-challenge-updates.pdf)
+#### [Ressources CITY SHAPER](https://www.firstinspires.org/resource-library/fll/challenge-and-resources)
+* [Défi](https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-challenge.pdf)
+* [Mises à jour du défi (7 october, 2019)](https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-challenge-updates.pdf)
 * [Rubriques utilisées par les juges](https://firstinspiresst01.blob.core.windows.net/fll/2020/first-lego-league-rubrics.pdf)
 
 ### [robotiquefirstquebec](https://robotiquefirstquebec.org/fll/)
