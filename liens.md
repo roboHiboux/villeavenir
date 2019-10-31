@@ -12,4 +12,4 @@
 <br>
 
 ## [FLLcasts](https://www.fllcasts.com/)
-* [Tips and tricks for FIRST LEGO League (FLL) 2019 City Shaper Challenge](https://www.fllcasts.com/competitions/first-lego-league/2019-city-shaper-challenge/tips-and-tricks-fll-2019)
+* [Trucs et astuces pour le défi ville avenir 2019](https://www.fllcasts.com/competitions/first-lego-league/2019-city-shaper-challenge/tips-and-tricks-fll-2019)
