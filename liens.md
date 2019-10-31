@@ -16,3 +16,4 @@
 
 ## [techbricks](https://techbrick.com)
 * [FLL resources](https://techbrick.com/fll-resources/fll2019)
+* [comment réparer les moteurs non étalonnés](https://techbrick.com/techbrick/Lego/TechBrick/TechTips/NXTCalibration/) (fix motor calibration)
