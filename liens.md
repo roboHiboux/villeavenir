@@ -7,3 +7,8 @@
 
 ### [robotiquefirstquebec](https://robotiquefirstquebec.org/fll/)
 * Journal de bord de l’ingénieur (cahier du jeune)  - voir [Documents et ressources](https://robotiquefirstquebec.org/fll/defi-documentation/) sur le site robotiquefirstquebec
+
+<br>
+
+## FLLcasts
+* [Tips and tricks for FIRST LEGO League (FLL) 2019 City Shaper Challenge](https://www.fllcasts.com/competitions/first-lego-league/2019-city-shaper-challenge/tips-and-tricks-fll-2019)
