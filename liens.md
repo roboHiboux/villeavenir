@@ -13,3 +13,6 @@
 
 ## [FLLcasts](https://www.fllcasts.com/)
 * [Trucs et astuces pour le défi ville avenir 2019](https://www.fllcasts.com/competitions/first-lego-league/2019-city-shaper-challenge/tips-and-tricks-fll-2019)
+
+## [techbricks](https://techbrick.com)
+* [FLL resources](https://techbrick.com/fll-resources/fll2019)
