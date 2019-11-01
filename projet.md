@@ -7,9 +7,9 @@ Comme vous, ils travaillent en équipe. Les ingénieurs civils et les ingénieur
 Nos villes font face à de gros défis, comme le transport, l’accessibilité et même les catastrophes naturelles. Comment pouvons-nous façonner un avenir meilleur pour chacun ? Il faudra travailler en équipe et faire preuve d’imagination. Êtes-vous prêt à collaborer pour bâtir un avenir meilleur ?
 
 ## Pour le projet innovant, votre équipe devra :
-• Déterminer un problème dans un bâtiment ou un espace public de votre communauté.
-• Concevoir une solution. 
-•  Partager votre solution avec d’autres et l’améliorer.
+* Déterminer un problème dans un bâtiment ou un espace public de votre communauté.
+* Concevoir une solution. 
+* Partager votre solution avec d’autres et l’améliorer.
 
 Lors des tournois officiels, votre équipe disposera de 5 minutes pour présenter les trois facettes du projet : le problème, la solution et la façon dont vous l’avez partagée.
 
