@@ -1,7 +1,7 @@
 # Équipe roboHiboux Ligue Lego First- Défi Ville Avenir 
 (École élémentaire Marie-Curie, à London en Ontario.)
 
-Les roboHiboux participe a [The FIRST® LEGO® League (FLL) London Competition](https://www.eng.uwo.ca/outreach/first-robotics/lego-league/), samedi le 30 Novembre, 2019.
+Les roboHiboux participe au [FIRST® LEGO® League (FLL) London Competition](https://www.eng.uwo.ca/outreach/first-robotics/lego-league/), samedi le 30 Novembre, 2019.
 
 ## Jour de compétition:
 
