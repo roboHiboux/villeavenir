@@ -1,10 +1,24 @@
-## Équipe roboHiboux Ligue Lego First- Défi Ville Avenir 
+# Équipe roboHiboux Ligue Lego First- Défi Ville Avenir 
 (École élémentaire Marie-Curie, à London en Ontario.)
 
-## [Jeu du robot](jeudurobot.md)
+## Jour du tournoi
 
-## [Valeurs fondamentales](valeurs.md)
+### A. [Jeu de robot](jeudurobot.md)
 
-## [Projet recherche](projet.md)
+### B. Présentations:
 
-## [Liens FLL](liens.md)
+## 1. [Valeurs fondamentales](valeurs.md)
+* presentation
+* affiche des valeurs fondamentales
+
+## 2. [Projet de recherche](projet.md)
+* presentation
+* affiche du projet de recherche
+
+## 3. [Résumé de conception de robot](http://fll.larobotics.org/resources/Robot_Design_Executive_Summay_LA.pdf)
+* presentation
+* document de conception de robot
+
+## Autre Choses
+
+[Liens FLL](liens.md)
