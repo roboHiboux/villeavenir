@@ -5,6 +5,9 @@
 * [Calculateur de pointage des missions](http://komurobo.com/projets/fll/ville-avenir/)
 * [Feuille de travail stratégique de ville d’avenir](CityShaperStrategySheet.pdf)
 
+### Regles du jeu
+* voir le "Journal de bord de l’ingénieur (cahier du jeune)" sur le site robotiquefirstquebec (dans la section de "Documents et ressources"), page 14 - Règles du jeu de robot.
+
 ### Autres équipes
 
 * [FLL City Shaper - 515 points - WalkingBot](https://www.youtube.com/watch?v=LAsDQfTq8HU)
