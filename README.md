@@ -3,7 +3,7 @@
 
 ## Jour de compétition:
 
-### A. [Jeu de robot](jeudurobot.md)
+### A. [Jeu de robot](jeudurobot.md) (14 Missions)
 
 ### B. Présentation devant les juges:
 
