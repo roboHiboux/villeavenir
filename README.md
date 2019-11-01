@@ -12,11 +12,11 @@ Les roboHiboux participe au [FIRST® LEGO® League (FLL) London Competition](htt
 ### B. Présentation devant les juges:
 
 ## 1. [Valeurs fondamentales](valeurs.md)
-* presentation
+* presentation (2 min)
 * affiche des valeurs fondamentales
 
 ## 2. [Projet de recherche](projet.md)
-* presentation
+* presentation (5 min - inclus le temps pour s'installer)
 * affiche du projet de recherche
 
 ## 3. [Résumé de conception de robot](http://fll.larobotics.org/resources/Robot_Design_Executive_Summay_LA.pdf)
