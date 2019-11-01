@@ -6,7 +6,7 @@
 * [Feuille de travail stratégique de ville d’avenir](CityShaperStrategySheet.pdf)
 
 ### Regles du jeu
-* voir le "Journal de bord de l’ingénieur (cahier du jeune)" sur le site robotiquefirstquebec (dans la section de "Documents et ressources"), page 14 - Règles du jeu de robot.
+* voir le "[Journal de bord de l’ingénieur (cahier du jeune)](https://robotiquefirstquebec.org/fll/defi-documentation/)" sur le site robotiquefirstquebec (dans la section de "Documents et ressources"), page 14 - Règles du jeu de robot.
 
 ### Autres équipes
 
