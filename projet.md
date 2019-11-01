@@ -13,7 +13,6 @@ Nos villes font face à de gros défis, comme le transport, l’accessibilité e
 
 Lors des tournois officiels, votre équipe disposera de 5 minutes pour présenter les trois facettes du projet : le problème, la solution et la façon dont vous l’avez partagée.
 
-à décider...
 
 ## Possibilités
 * [London Childrens Museum](https://www.londonchildrensmuseum.ca/)
