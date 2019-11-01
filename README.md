@@ -20,7 +20,7 @@ Les roboHiboux participe au [FIRST® LEGO® League (FLL) London Competition](htt
 * affiche du projet de recherche
 
 ## 3. [Résumé de conception de robot](http://fll.larobotics.org/resources/Robot_Design_Executive_Summay_LA.pdf)
-* presentation
+* presentation (dépend des juges)
 * document de conception de robot
 
 ## Autre Choses
