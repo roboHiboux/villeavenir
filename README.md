@@ -5,7 +5,7 @@
 
 ### A. [Jeu de robot](jeudurobot.md)
 
-### B. Présentations:
+### B. Présentation devant les juges:
 
 ## 1. [Valeurs fondamentales](valeurs.md)
 * presentation
