@@ -8,6 +8,10 @@
 ### Regles du jeu
 * voir le "[Journal de bord de l’ingénieur (cahier du jeune)](https://robotiquefirstquebec.org/fll/defi-documentation/)" sur le site robotiquefirstquebec (dans la section de "Documents et ressources"), page 14 - Règles du jeu de robot.
 
+### Robots
+* [exemple d'instructions de construction](http://flltutorials.com/RobotGame.html)
+
+
 ### Autres équipes
 
 * [FLL City Shaper - 515 points - WalkingBot](https://www.youtube.com/watch?v=LAsDQfTq8HU)
