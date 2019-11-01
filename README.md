@@ -1,7 +1,7 @@
 # Équipe roboHiboux Ligue Lego First- Défi Ville Avenir 
 (École élémentaire Marie-Curie, à London en Ontario.)
 
-## Jour du tournoi
+## Jour de compétition:
 
 ### A. [Jeu de robot](jeudurobot.md)
 
