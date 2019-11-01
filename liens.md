@@ -12,8 +12,8 @@
 * Journal de bord de l’ingénieur (cahier du jeune)  - voir [Documents et ressources](https://robotiquefirstquebec.org/fll/defi-documentation/) sur le site robotiquefirstquebec
 
 ### sites tutoriels
-* [FLL Tutorials](http://flltutorials.com)
-* [EV3 Lessons](http://ev3lessons.com/en/Lessons.html?tab=beginner) (Frères Seshan)
+* [FLL Tutorials](http://flltutorials.com) (ressources pour robot et pour le projet et les valeurs fondamentals)
+* [EV3 Lessons](http://ev3lessons.com/en/Lessons.html?tab=beginner) (ressources du robot EV3 - Frères Seshan)
 
 <br>
 
