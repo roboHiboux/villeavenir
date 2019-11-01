@@ -21,10 +21,10 @@
 * [comment réparer les moteurs non étalonnés](https://techbrick.com/techbrick/Lego/TechBrick/TechTips/NXTCalibration/) (fix motor calibration)
 
 ## [First Washington](http://fll.firstwa.org)
-(FIRST® Washington est une organisation qui inspire les jeunes en les immergeant dans la robotique en tant que <b>sport d'équipe<b/>.)
+(FIRST® Washington est une organisation qui inspire les jeunes en les immergeant dans la robotique en tant que <b>sport d'équipe</b>.)
 * [Premier Pas](http://fll.firstwa.org/wp-content/uploads/2018/10/FIRST%20Steps%20-%20FLL%20Complete%20Guide.pdf)
 
-<br/>
+</br>
 
 ## Infos pour l’entraîneur
 * [Conseils rapides pour les entraîneurs](https://www.youtube.com/playlist?list=PLpaPRqT711tiQsbC8hOURbvG4uwFpnzcj)
