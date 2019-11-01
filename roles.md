@@ -8,7 +8,7 @@
 
 ### B. Présentation devant les juges:
 #### 1. Valeurs fondamentales
-* tout le groupe doit faire parti de la presentation
+* tout le groupe doit faire parti de la présentation
 * Personne en charge de l'affiche des valeurs fondamentales
 
 #### 2. Projet de recherche
