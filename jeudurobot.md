@@ -11,10 +11,6 @@
 ### Approaches utilisé par d'autres équipes
 
 * [Mr Hino - 5 missions](https://www.youtube.com/watch?v=dAlKqZBOkeo)
-* [FLL City Shaper - 515 points - WalkingBot](https://www.youtube.com/watch?v=LAsDQfTq8HU)
-* [HAL-9000 Robotics - 370 Points](https://www.youtube.com/watch?v=zhxjdhFBTmo) (contient des erreurs - peut-tu les trouver?)
-* [2019 City Shaper Missions and Points Explanation Video!!](https://www.youtube.com/watch?v=JL-0YojPWmM) ([M. Hinos](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ) )
-
 
 # 2. Robot
 ## Conception de robot
