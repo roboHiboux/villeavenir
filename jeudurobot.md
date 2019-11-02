@@ -10,7 +10,8 @@
 
 ### Approaches utilisé par d'autres équipes
 
-* [Mr Hino - 5 missions](https://www.youtube.com/watch?v=dAlKqZBOkeo)
+#### [LEGORobotics Mr. Hino](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ/videos)
+* [5 missions](https://www.youtube.com/watch?v=dAlKqZBOkeo)
 
 # 2. Robot
 ### Conception de robot
