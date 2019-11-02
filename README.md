@@ -28,3 +28,9 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 #### Autre Choses
 
 [Liens utiles](liens.md)
+
+# Nouvelles |
+=========== |
+#### [LEGORobotics Mr. Hino](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ/videos) |
+* [5 missions séparées](https://www.youtube.com/watch?v=dAlKqZBOkeo) |
+* [3 missions combinées](https://www.youtube.com/watch?v=gxRV948MMsE) |
