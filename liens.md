@@ -35,3 +35,10 @@
 * [LEGO MINDSTORMS Education EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software) (logicielle qu'on utilise à l'école)
 * [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation sur un tapis de jeu virtuelle avec un robot virutelle)
 * [Lego Digital Designer](https://www.lego.com/en-us/ldd) (construire des modèles avec des briques LEGO® virtuelles.)
+
+
+## Approaches utilisé par d'autres équipes
+
+* [FLL City Shaper - 515 points - WalkingBot](https://www.youtube.com/watch?v=LAsDQfTq8HU)
+* [HAL-9000 Robotics - 370 Points](https://www.youtube.com/watch?v=zhxjdhFBTmo) (contient des erreurs - peut-tu les trouver?)
+* [2019 City Shaper Missions and Points Explanation Video!!](https://www.youtube.com/watch?v=JL-0YojPWmM) ([M. Hinos](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ) )
