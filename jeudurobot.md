@@ -29,11 +29,7 @@
 
 ### [Instructions de construction pour robot éducateur](https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions)
 
-
-# 3.  Programmation
-
-* [Leçons de pratique](https://robotiquefirstquebec.org/wp-content/uploads/VilleAvenirLecons.pdf)
-* [Programme complet](http://firstinspiresst01.blob.core.windows.net/fll/2020/fll2019-ev3-sol.ev3)
+# 3. Programmation
 
 #### Gyro - gyroscope nécessite un ordinateur portable (ne marche pas avec tablet Apple!)
 * [capteur gyroscopique](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-gyro-sensor-driving-base-a521f8ebe355c281c006418395309e15.pdf)
@@ -41,11 +37,15 @@
 * [Block Gyro](https://www.lego.com/cdn/cs/set/assets/blt8da4f23ee86f8986/Gyro.ev3b) ( [voire page de Téléchargement Lego](https://www.lego.com/en-us/themes/mindstorms/downloads) )
 
 
-# Didacticiel - Mission Grue (exemple de mission)
-#### robot
+# 4. Didacticiel - Mission Grue (exemple de mission)
+### robot
 * [robot de  base](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-rem-driving-base-79bebfc16bd491186ea9c9069842155e.pdf)
 * [élévateur utilisant moteur moyen](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-medium-motor-driving-base-e66e2fc0d917485ef1aa023e8358e7a7.pdf)
 * [protéger le robot pour competition](http://firstinspiresst01.blob.core.windows.net/fll/2020/crane-mission-ev3-soluton.pdf)
 
+### Programmation
+
+* [Leçons de pratique](https://robotiquefirstquebec.org/wp-content/uploads/VilleAvenirLecons.pdf)
+* [Programme complet](http://firstinspiresst01.blob.core.windows.net/fll/2020/fll2019-ev3-sol.ev3)
 
 
