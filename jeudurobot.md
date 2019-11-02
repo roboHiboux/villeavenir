@@ -16,15 +16,20 @@
 
 
 # 2. Robot
+## Conception de robot
 * [exemple d'instructions de construction](http://flltutorials.com/RobotGame.html)
 
 ## [Instructions de construction pour robot éducateur](https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions)
 * [base de conduite - Lego Education](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-rem-driving-base-79bebfc16bd491186ea9c9069842155e.pdf)
 
-## Videos d'instruction de [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
+## Pièces jointes 
+### [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
 * [Vis sans fin](https://www.youtube.com/watch?v=TQ9hQ_ZXwmM) (Worm Gear)
 * [Vis de Chien](https://www.youtube.com/watch?v=NZbt3tnySyI) (Dog Gear)
 * [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs)
+
+### [Instructions de construction pour robot éducateur](https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions)
+
 
 # 3.  Programmation
 
