@@ -1,6 +1,6 @@
 # Jeu du robot
 
-### Missions
+## Missions
 
 * [Calculateur de pointage des missions](http://komurobo.com/projets/fll/ville-avenir/)
 * [Feuille de travail stratégique de ville d’avenir](CityShaperStrategySheet.pdf)
@@ -8,15 +8,15 @@
 ### Regles du jeu
 * voir le "[Journal de bord de l’ingénieur (cahier du jeune)](https://robotiquefirstquebec.org/fll/defi-documentation/)" sur le site robotiquefirstquebec (dans la section de "Documents et ressources"), page 14 - Règles du jeu de robot.
 
-### Robots
-* [exemple d'instructions de construction](http://flltutorials.com/RobotGame.html)
-
-
 ### Autres équipes
 
 * [FLL City Shaper - 515 points - WalkingBot](https://www.youtube.com/watch?v=LAsDQfTq8HU)
 * [HAL-9000 Robotics - 370 Points](https://www.youtube.com/watch?v=zhxjdhFBTmo) (contient des erreurs - peut-tu les trouver?)
 * [2019 City Shaper Missions and Points Explanation Video!!](https://www.youtube.com/watch?v=JL-0YojPWmM) ([M. Hinos](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ) )
+
+
+### Robots
+* [exemple d'instructions de construction](http://flltutorials.com/RobotGame.html)
 
 ## Programmation
 
