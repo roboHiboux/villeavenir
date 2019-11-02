@@ -31,6 +31,8 @@
 
 # 3. Programmation
 
+# [Mr. Hino](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ/featured)
+
 #### Gyro - gyroscope nécessite un ordinateur portable (ne marche pas avec tablet Apple!)
 * [capteur gyroscopique](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-gyro-sensor-driving-base-a521f8ebe355c281c006418395309e15.pdf)
 * [Conduire droit avec le gyroscope](https://www.youtube.com/watch?v=qPE4YNsTad4) ( [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g) )
