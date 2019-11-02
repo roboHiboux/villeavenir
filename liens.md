@@ -30,7 +30,7 @@
 (FIRST® Washington est une organisation qui inspire les jeunes en les immergeant dans la robotique en tant que <b>sport d'équipe</b>.)
 * [Premier Pas](http://fll.firstwa.org/wp-content/uploads/2018/10/FIRST%20Steps%20-%20FLL%20Complete%20Guide.pdf)
 
-### logiciels gratuits
+### Logiciels gratuits
 * [LEGO MINDSTORMS Education EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software) (logicielle qu'on utilise à l'école)
 * [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation sur un tapis de jeu virtuelle avec un robot virutelle)
 * [Lego Digital Designer](https://www.lego.com/en-us/ldd) (construire des modèles avec des briques LEGO® virtuelles.)
