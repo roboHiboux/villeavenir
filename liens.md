@@ -19,6 +19,8 @@
 
 ## Autres sites
 
+[Guide du débutant de FIRST LEGO League](http://flltutorials.com/translations/en-us/Worksheets/BeginnersGuide.pdf)
+
 ### [FLLcasts](https://www.fllcasts.com/)
 * [Trucs et astuces pour le défi ville avenir 2019](https://www.fllcasts.com/competitions/first-lego-league/2019-city-shaper-challenge/tips-and-tricks-fll-2019)
 
