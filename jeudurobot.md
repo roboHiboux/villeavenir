@@ -47,14 +47,5 @@
 * [élévateur utilisant moteur moyen](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-medium-motor-driving-base-e66e2fc0d917485ef1aa023e8358e7a7.pdf)
 * [protéger le robot pour competition](http://firstinspiresst01.blob.core.windows.net/fll/2020/crane-mission-ev3-soluton.pdf)
 
-([Autres instructions de construction pour robot éducateur](https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions#program-core))
-
-
-
-
-
-[Guide du débutant de FIRST LEGO League](http://flltutorials.com/translations/en-us/Worksheets/BeginnersGuide.pdf)
-
-<hr>
 
 
