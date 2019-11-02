@@ -13,14 +13,12 @@
 
 ### sites tutoriels
 * [FLL Tutorials](http://flltutorials.com) (ressources pour robot et pour le projet et les valeurs fondamentals)
+    * [Guide du débutant de FIRST LEGO League](http://flltutorials.com/translations/en-us/Worksheets/BeginnersGuide.pdf)
 * [EV3 Lessons](http://ev3lessons.com/en/Lessons.html?tab=beginner) (ressources du robot EV3 - Frères Seshan)
 
 <br>
 
 ## Autres sites
-
-### [flltutorials](http://flltutorials.com)
-[Guide du débutant de FIRST LEGO League](http://flltutorials.com/translations/en-us/Worksheets/BeginnersGuide.pdf)
 
 ### [FLLcasts](https://www.fllcasts.com/)
 * [Trucs et astuces pour le défi ville avenir 2019](https://www.fllcasts.com/competitions/first-lego-league/2019-city-shaper-challenge/tips-and-tricks-fll-2019)
