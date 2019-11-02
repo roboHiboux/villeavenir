@@ -18,9 +18,8 @@
 # 2. Robot
 ## Conception de robot
 * [exemple d'instructions de construction](http://flltutorials.com/RobotGame.html)
-
-## [Instructions de construction pour robot éducateur](https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions)
 * [base de conduite - Lego Education](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-rem-driving-base-79bebfc16bd491186ea9c9069842155e.pdf)
+* [Autres Instructions de construction - Lego Education](https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions)
 
 ## Pièces jointes 
 ### [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
@@ -36,7 +35,7 @@
 * [Leçons de pratique](https://robotiquefirstquebec.org/wp-content/uploads/VilleAvenirLecons.pdf)
 * [Programme complet](http://firstinspiresst01.blob.core.windows.net/fll/2020/fll2019-ev3-sol.ev3)
 
-#### Ordinateur portatif seulment (ne marche pas avec tablet Apple!)
+#### Gyro - gyroscope nécessite un ordinateur portable (ne marche pas avec tablet Apple!)
 * [capteur gyroscopique](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-gyro-sensor-driving-base-a521f8ebe355c281c006418395309e15.pdf)
 * [Conduire droit avec le gyroscope](https://www.youtube.com/watch?v=qPE4YNsTad4) ( [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g) )
 * [Block Gyro](https://www.lego.com/cdn/cs/set/assets/blt8da4f23ee86f8986/Gyro.ev3b) ( [voire page de Téléchargement Lego](https://www.lego.com/en-us/themes/mindstorms/downloads) )
@@ -52,16 +51,10 @@
 
 
 
-<hr>
 
-
-<hr>
 
 [Guide du débutant de FIRST LEGO League](http://flltutorials.com/translations/en-us/Worksheets/BeginnersGuide.pdf)
 
 <hr>
 
-### logiciels gratuits
-* [LEGO MINDSTORMS Education EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software) (logicielle qu'on utilise à l'école)
-* [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation sur un tapis de jeu virtuelle avec un robot virutelle)
-* [Lego Digital Designer](https://www.lego.com/en-us/ldd) (construire des modèles avec des briques LEGO® virtuelles.)
+
