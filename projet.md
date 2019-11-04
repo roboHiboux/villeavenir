@@ -1,4 +1,6 @@
-# Projet recherche
+# Projet recherche 
+
+# 1. Description
 
 Les architectes conçoivent et construisent des bâtiments. Ils combinent la science et l’art pour créer des bâtiments et des structures pour leurs clients. Parfois, ils en construisent des nouveaux et parfois ils en rénovent des existants.
 
@@ -16,12 +18,14 @@ Lors des tournois officiels, on disposera de 5 minutes pour présenter les trois
 * la solution et 
 * la façon dont vous l’avez partagée.
 
-
-## Possibilités
-* [London Childrens Museum](https://www.londonchildrensmuseum.ca/)
-
+# 2. tutoriels
 
 [FLLTutorials](http://flltutorials.com/Project.html)
 * [problème](http://flltutorials.com/translations/en-us/Project/Identify.pdf)
 * [solution](http://flltutorials.com/translations/en-us/Project/InnovativeSolution.pdf)
 * [partagée](http://flltutorials.com/translations/en-us/Project/Sharing.pdf)
+
+
+
+# 3. Possibilités
+* [London Childrens Museum](https://www.londonchildrensmuseum.ca/)
