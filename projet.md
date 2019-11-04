@@ -25,7 +25,7 @@ Lors des tournois officiels, on disposera de 5 minutes pour présenter les trois
 * [solution](http://flltutorials.com/translations/en-us/Project/InnovativeSolution.pdf)
 * [partagée](http://flltutorials.com/translations/en-us/Project/Sharing.pdf)
 
+# 3. [Rubrics](rubricsProject.pdf)
 
-
-# 3. Possibilités
+# 4. Possibilités
 * [London Childrens Museum](https://www.londonchildrensmuseum.ca/)
