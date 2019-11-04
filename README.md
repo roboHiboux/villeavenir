@@ -1,4 +1,4 @@
-![image](logo1.png)
+<body background="logo1.png">
 # Équipe roboHiboux Ligue Lego First - Défi: Ville Avenir 
 (École élémentaire Marie-Curie, à London en Ontario.)
 
