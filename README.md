@@ -14,8 +14,8 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 ### B. Présentation devant les juges:
 
 #### 1. [Valeurs fondamentales](valeurs.md)
-* presentation (2 min)
 * [activité d'equipe des juges](http://flltutorials.com/translations/en-us/CoreValues/CVJudging.pdf)
+* brève présentation de votre affiche (2 min + repondre questions des juges)
 * [affiche des valeurs fondamentales](http://flltutorials.com/translations/en-us/CoreValues/CVPoster.pdf)
 * [Rubric des juges](rubricsValues.pdf)
 
