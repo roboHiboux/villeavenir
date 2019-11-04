@@ -15,7 +15,7 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 
 #### 1. [Valeurs fondamentales](valeurs.md)
 * presentation (2 min)
-* activité d'equipe des juges
+* [activité d'equipe des juges](http://flltutorials.com/translations/en-us/CoreValues/CVJudging.pdf)
 * [affiche des valeurs fondamentales](http://flltutorials.com/translations/en-us/CoreValues/CVPoster.pdf)
 * [Rubric des juges](rubricsValues.pdf)
 
