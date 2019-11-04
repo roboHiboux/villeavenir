@@ -24,7 +24,7 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 * [Rubric des juges](rubricsProject.pdf)
 
 #### 3. [Résumé de conception de robot](https://drive.google.com/file/d/1VC3oS6zkFRucYmjoOFKwcpcF8nQUieVT/view)
-* presentation (dépend des juges)
+* presentation (4 min + repondre questions des juges)
 * document de conception de robot
 * [Rubric des juges](rubricsRobotDesign.pdf)
 
