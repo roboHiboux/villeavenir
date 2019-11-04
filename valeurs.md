@@ -9,5 +9,5 @@
 # 2. tutoriels
 [FLLTutorials](http://flltutorials.com/CoreValues.html)
 * [Introduction aux valeurs fondamentales](http://flltutorials.com/translations/en-us/CoreValues/IntroductiontoCV.pdf)
-* [échantillon d'affiche](http://flltutorials.com/translations/en-us/CoreValues/CVPoster.pdf)
+* [échantillon d'affiche des valeurs fondamentales](http://flltutorials.com/translations/en-us/CoreValues/CVPoster.pdf)
 * [Comment prendre des décisions](http://flltutorials.com/translations/en-us/CoreValues/MakingDecisions.pdf)
