@@ -19,3 +19,9 @@ Lors des tournois officiels, on disposera de 5 minutes pour présenter les trois
 
 ## Possibilités
 * [London Childrens Museum](https://www.londonchildrensmuseum.ca/)
+
+
+[FLLTutorials](http://flltutorials.com/Project.html)
+* [problème](http://flltutorials.com/translations/en-us/Project/Identify.pdf)
+* [solution](http://flltutorials.com/translations/en-us/Project/InnovativeSolution.pdf)
+* [partagée](http://flltutorials.com/translations/en-us/Project/Sharing.pdf)
