@@ -29,7 +29,7 @@ Lors des tournois officiels, on disposera de 5 minutes pour présenter les trois
 # 4. Possibilités
 * [London Childrens Museum](https://www.londonchildrensmuseum.ca/)
 
-# 5. Gestion de projet
+# 5. [Gestion de projet](http://flltutorials.com/translations/en-us/Project/ProjectTimeline.pdf)
 * choisir un sujet (6 nov)
 * fair des recheches (6 nov)
 * Proposer une solution innovante (8 nov)
