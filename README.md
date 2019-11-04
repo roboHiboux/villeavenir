@@ -30,6 +30,9 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 [Liens utiles](liens.md)
 
 # Nouvelles 
+> #### 4 Nov - Projet de recherche
+> * on commence a trouver un [problème](projet.md) a resoudre
+
 > #### 2 Nov - videos de M. Hino: [LEGORobotics](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ/videos)
 > * [erreur avec drone](https://www.youtube.com/watch?v=-bktRKjIdIE)
 
