@@ -12,7 +12,7 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 
 ### A. [Jeu de robot](jeudurobot.md) (14 Missions)
 
-3 matchs de jeu de 2.5 min; possibilité de seulement 5 min entre chaque match!
+Deux matchs d'entraînement et trois matchs de tournoi de 2.5 min; possibilité d'avioir seulement 5 min entre chaque match!
 
 ### B. Présentation devant les juges:
 [fiche d'information de l'équipe](TeamInfoSheet_FL005_Fillable.pdf) (3 copies, une pour chaque présentation)
