@@ -6,7 +6,10 @@
 
 
 # 2. Sessions de jugement Western
-## Core Values Judging
+
+## The following outlines what you can expect in each of the judging sessions.
+### Core Values Judging
+
 Your team will spend fifteen (15) minutes with the judges. During the first five (5) minutes, your team will be
 given a surprise teamwork activity to complete in front of the judges. The judges will be looking for evidence of
 your team dynamics: How well does your team communicate? Do they respect each other? Do they
