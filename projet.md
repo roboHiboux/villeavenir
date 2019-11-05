@@ -18,7 +18,24 @@ Lors des tournois officiels, on disposera de 5 minutes pour présenter les trois
 * la solution et 
 * la façon dont vous l’avez partagée.
 
-# 2. tutoriels
+# 2. Session de jugement Western:
+
+## The following outlines what you can expect in each of the judging sessions.
+###Project Judging
+
+Your team will spend fifteen (15) minutes with the judges. Your team will have five (5) minutes to deliver your
+Project presentation to the judges – this includes set-up time; the last ten (10) minutes are reserved for the
+judges to ask questions. This presentation should be rehearsed and polished. The judges will wait until your
+presentation is over to ask questions. Please stick to the five (5) minute time limit! Props and costumes are
+permitted, and judges will look for creativity in the presentation style.
+Remember, to be eligible for a FIRST LEGO League Project award, your team needed to identify a problem
+relating to the theme, design an innovative solution to the problem you selected, and share your problem and
+solution with others.
+For questions about the Project, visit the Judging FAQ on the FIRST LEGO League website.
+
+* [Rubric des juges](rubricsProject.pdf)
+
+# 3. tutoriels
 
 [FLLTutorials](http://flltutorials.com/Project.html)
 * [problème](http://flltutorials.com/translations/en-us/Project/Identify.pdf)
