@@ -17,6 +17,8 @@ and complete the task?
 The final ten (10) minutes are reserved for the judges to ask the team questions about the activity and/or the
 season.
 
+* [Rubric des juges](rubricsValues.pdf)
+
 # 3. tutoriels
 [FLLTutorials](http://flltutorials.com/CoreValues.html)
 * [Introduction aux valeurs fondamentales](http://flltutorials.com/translations/en-us/CoreValues/IntroductiontoCV.pdf)
