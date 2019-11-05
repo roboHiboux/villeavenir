@@ -21,6 +21,17 @@ season.
 
 * [Rubric des juges](rubricsValues.pdf)
 
+## What is Gracious Professionalism ® ?
+
+Gracious Professionalism ® is part of the ethos of FIRST ® . The idea and phrase are found throughout FIRST, but
+no one has been a stronger champion than FIRST Executive Advisory Board Co-Chair & Distinguished Advisor,
+Dr. Woodie Flowers. “Gracious Professionalism is a way of doing things that encourages high-quality work,
+emphasizes the value of others, and respects individuals and the community. With Gracious Professionalism,
+fierce competition and mutual gain are not separate notions. Gracious Professionals learn and compete like
+crazy but treat one another with respect and kindness in the process.”
+
+We expect all team members, volunteers, coaches, and families to behave as Gracious Professionals.
+
 # 3. tutoriels
 * [Activités d'équipe et de valeurs fondamentals](http://archive.ev3lessons.com/web/ev3lessons-v4.9.0/corevalues.html) (ev3lessons)
 * [valeurs fondamentals](http://flltutorials.com/CoreValues.html) (flltutorials)
