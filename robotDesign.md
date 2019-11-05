@@ -13,3 +13,5 @@ in the Robot Design Executive Summary document), which should last no longer tha
 for the judges to ask your team questions.
 You must bring your robot, its manipulators, and a diagram, printout or a laptop that shows your
 programming to the robot design judges!
+
+* [Rubric des juges](rubricsRobotDesign.pdf)
