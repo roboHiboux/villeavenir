@@ -8,7 +8,9 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 [Horaire du jour (provisoire)](https://www.eng.uwo.ca/outreach/first-robotics/lego-league/Tentative-Event-Schedule-2019.pdf)
 
 ## Jour de compétition:
+
 [liste de contrôle pour Western](checklistWestern2019.pdf)
+
 [Processus de jugement](CoachesDayPresentation2019_judging.pdf)
 
 ### A. [Jeu de robot](jeudurobot.md) (14 Missions)
