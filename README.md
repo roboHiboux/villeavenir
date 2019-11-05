@@ -21,7 +21,6 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 #### 1. [Valeurs fondamentales](valeurs.md)
 * [activité d'equipe devant les juges](http://flltutorials.com/translations/en-us/CoreValues/CVJudging.pdf) (5 min)
 * Question et réponses (10 min)
-* [Rubric des juges](rubricsValues.pdf)
 
 ([affiche des valeurs fondamentales](http://flltutorials.com/translations/en-us/CoreValues/CVPoster.pdf) est non requis a Western)
 
@@ -29,7 +28,6 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 * presentation (5 min - inclus le temps pour s'installer)
 * Question et réponses (10 min)
 * affiche du projet de recherche
-* [Rubric des juges](rubricsProject.pdf)
 
 #### 3. [Conception de robot](robotDesign.md)
 * presentation du RDES (4 min)
