@@ -15,6 +15,7 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 
 ### B. Présentation devant les juges:
 [fiche d'information de l'équipe](TeamInfoSheet_FL005_Fillable.pdf) (3 copies, une pour chaque présentation)
+[Processus de jugement](CoachesDayPresentation2019_judging.pdf)
 
 #### 1. [Valeurs fondamentales](valeurs.md)
 * [activité d'equipe devant les juges](http://flltutorials.com/translations/en-us/CoreValues/CVJudging.pdf)
