@@ -6,7 +6,7 @@
 * [Activités d'équipe et de valeurs fondamentals](http://archive.ev3lessons.com/web/ev3lessons-v4.9.0/corevalues.html) (ev3lessons)
 * [valeurs fondamentals](http://flltutorials.com/CoreValues.html) (flltutorials)
 
-# 2. Sessions de jugement
+# 2. Sessions de jugement Western
 ## Core Values Judging
 Your team will spend fifteen (15) minutes with the judges. During the first five (5) minutes, your team will be
 given a surprise teamwork activity to complete in front of the judges. The judges will be looking for evidence of
