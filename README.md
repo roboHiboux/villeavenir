@@ -36,8 +36,6 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 * [Résumé de conception de robot (RDES)](https://drive.google.com/file/d/1VC3oS6zkFRucYmjoOFKwcpcF8nQUieVT/view)
 * diagrams demontrant le programme du robot (sur papier or ordinateur) 
 
-(on ne demontré pas le fonctionnement aux juges de notre robot a Western)
-
 #### [Roles](roles.md)
 
 #### Autre Choses
