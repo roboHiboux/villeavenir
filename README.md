@@ -31,7 +31,7 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 * affiche du projet de recherche
 
 #### 3. [Conception de robot](robotDesign.md)
-* presentation du RDES (4 min)
+* presentation du RDES (4 min) (on peut demontré le fonctionnement de notre robot sur une table de démonstrationa à Western)
 * Question et réponses (11 min)
 * [Résumé de conception de robot (RDES)](https://drive.google.com/file/d/1VC3oS6zkFRucYmjoOFKwcpcF8nQUieVT/view)
 * diagrams demontrant le programme du robot (sur papier or ordinateur) 
