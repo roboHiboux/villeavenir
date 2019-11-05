@@ -21,7 +21,7 @@ Lors des tournois officiels, on disposera de 5 minutes pour présenter les trois
 # 2. Session de jugement Western:
 
 ## The following outlines what you can expect in each of the judging sessions.
-###Project Judging
+### Project Judging
 
 Your team will spend fifteen (15) minutes with the judges. Your team will have five (5) minutes to deliver your
 Project presentation to the judges – this includes set-up time; the last ten (10) minutes are reserved for the
