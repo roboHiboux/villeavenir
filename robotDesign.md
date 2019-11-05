@@ -15,3 +15,7 @@ You must bring your robot, its manipulators, and a diagram, printout or a laptop
 programming to the robot design judges!
 
 * [Rubric des juges](rubricsRobotDesign.pdf)
+
+#### Livrables
+* [Résumé de conception de robot (RDES)](https://drive.google.com/file/d/1VC3oS6zkFRucYmjoOFKwcpcF8nQUieVT/view)
+* diagrams demontrant le programme du robot (sur papier or ordinateur) 
