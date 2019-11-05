@@ -12,7 +12,7 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 ### A. [Jeu de robot](jeudurobot.md) (14 Missions)
 
 ### B. Présentation devant les juges:
-[fiche d'information de l'équipe](TeamInfoSheet_FL005_Fillable.pdf) (3 copies pour les juges)
+[fiche d'information de l'équipe](TeamInfoSheet_FL005_Fillable.pdf) (3 copies, une pour chaque présentation)
 
 #### 1. [Valeurs fondamentales](valeurs.md)
 * [activité d'equipe devant les juges](http://flltutorials.com/translations/en-us/CoreValues/CVJudging.pdf)
