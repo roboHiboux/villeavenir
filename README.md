@@ -31,7 +31,7 @@ Deux matchs d'entraînement et trois matchs de tournoi de 2.5 min; possibilité 
 * affiche du projet de recherche
 
 #### 3. [Conception de robot](robotDesign.md)
-* presentation du RDES (4 min) (on peut demontré le fonctionnement de notre robot sur une table de démonstrationa à Western)
+* presentation du RDES (4 min) (nous avons accès à une table de démonstration à Western)
 * Question et réponses (11 min)
 * [Résumé de conception de robot (RDES)](https://drive.google.com/file/d/1VC3oS6zkFRucYmjoOFKwcpcF8nQUieVT/view)
 * diagrams demontrant le programme du robot (sur papier or ordinateur) 
