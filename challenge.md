@@ -4,4 +4,4 @@
 * [Guide du jeux](https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-game-guide-pdf.pdf) (13 pages)
 * [Mises à jour du défi](https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-challenge-updates.pdf)
 * [Rubriques utilisées par les juges](https://firstinspiresst01.blob.core.windows.net/fll/2020/first-lego-league-rubrics.pdf) (3 pages)
-* [Guide de l'événement pour les équipes]https://firstinspiresst01.blob.core.windows.net/fll/2019/fll-event-guide.pdf) (20 pages)
+* [Guide de l'événement pour les équipes](https://firstinspiresst01.blob.core.windows.net/fll/2019/fll-event-guide.pdf) (20 pages)
