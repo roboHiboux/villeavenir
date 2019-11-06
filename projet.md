@@ -33,7 +33,7 @@ relating to the theme, design an innovative solution to the problem you selected
 solution with others.
 For questions about the Project, visit the Judging FAQ on the FIRST LEGO League website.
 
-* [Rubric des juges](rubricsProject.pdf)
+### [Rubric des juges](rubricsProject.pdf)
 
 # 3. tutoriels
 
