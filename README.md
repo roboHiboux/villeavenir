@@ -1,11 +1,3 @@
-.fstPage  {
-    background-image:url("csm_ecole_elementaire_marie-curie_afaf7316ee.png");
-    height: 700px;
-    width:100%;
-    background-size:cover;
-}
-<div class="fstPage"></div>
-
 # Équipe #49360 roboHiboux Ligue Lego First - Défi: Ville Avenir 
 (École élémentaire Marie-Curie, à London en Ontario.)
 
