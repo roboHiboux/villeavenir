@@ -10,7 +10,7 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 [Ressourcea pour le défi](challenge.md)
 
 ## Jour de compétition:
-[Liste de contrôle pour Western](checklistWestern2019.pdf) (pas de Bluetooth!)
+[Liste de contrôle pour Western](checklistWestern2019.pdf) (pas de Bluetooth!, doit utiliser une portative)
 
 ### A. [Jeu de robot](jeudurobot.md) (14 Missions)
 
