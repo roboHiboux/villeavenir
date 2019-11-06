@@ -46,5 +46,5 @@
 
 # Autres Competitions
 
-* [WRO - Word Robotics Olypiad](https://wro-association.org/home/)
-    * [WRO Canada](http://www.zone01.ca/index.php/en-ca/)
+* [WRO - Word Robotics Olympiad](https://wro-association.org/home/)
+    * [WRO Canada - zone01](http://www.zone01.ca/index.php/en-ca/)
