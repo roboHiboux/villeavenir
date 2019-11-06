@@ -1,17 +1,4 @@
-# Sites FLL
-
-## [firstroboticscanada](https://www.firstroboticscanada.org/fll/)
-### [Ressources CITY SHAPER](https://www.firstinspires.org/resource-library/fll/challenge-and-resources)
-* [Défi](https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-challenge.pdf) (une page)
-* [Guide du jeux](https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-game-guide-pdf.pdf) (13 pages)
-* [Mises à jour du défi](https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-challenge-updates.pdf)
-* [Rubriques utilisées par les juges](https://firstinspiresst01.blob.core.windows.net/fll/2020/first-lego-league-rubrics.pdf) (3 pages)
-* [Guide de l'événement pour les équipes]https://firstinspiresst01.blob.core.windows.net/fll/2019/fll-event-guide.pdf) (20 pages)
-
-## [robotiquefirstquebec](https://robotiquefirstquebec.org/fll/)
-* Journal de bord de l’ingénieur (cahier du jeune)  - voir [Documents et ressources](https://robotiquefirstquebec.org/fll/defi-documentation/) sur le site robotiquefirstquebec
-
-## sites tutoriels
+# sites tutoriels
 * [FLL Tutorials](http://flltutorials.com) (ressources pour robot et pour le projet et les valeurs fondamentals)
     * [Guide du débutant de FIRST LEGO League](http://flltutorials.com/translations/en-us/Worksheets/BeginnersGuide.pdf)
 * [EV3 Lessons](http://ev3lessons.com/en/Lessons.html?tab=beginner) (ressources du robot EV3 - Frères Seshan)
@@ -36,14 +23,11 @@
 * [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation sur un tapis de jeu virtuelle avec un robot virutelle)
 * [Lego Digital Designer](https://www.lego.com/en-us/ldd) (construire des modèles avec des briques LEGO® virtuelles.)
 
-
 ## Approaches utilisé par d'autres équipes
-
 * [FLL City Shaper - 515 points - WalkingBot](https://www.youtube.com/watch?v=LAsDQfTq8HU)
 * [HAL-9000 Robotics - 370 Points](https://www.youtube.com/watch?v=zhxjdhFBTmo) (contient des erreurs - peut-tu les trouver?)
 * [2019 City Shaper Missions and Points Explanation Video!!](https://www.youtube.com/watch?v=JL-0YojPWmM) ([M. Hinos](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ) )
 
 # Autres Competitions
-
 * [WRO - Word Robotics Olympiad](https://wro-association.org/home/)
     * [WRO Canada - zone01](http://www.zone01.ca/index.php/en-ca/)
