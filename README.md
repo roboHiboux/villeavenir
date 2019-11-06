@@ -28,12 +28,12 @@ Deux matchs d'entraînement et trois matchs de tournoi de 2.5 min; possibilité 
 ([Affiche des valeurs fondamentales](http://flltutorials.com/translations/en-us/CoreValues/CVPoster.pdf) est non requis a Western)
 
 #### 2. [Projet de recherche](projet.md)
-* Presentation (5 min - inclus le temps pour s'installer)
+* Présentation (5 min - inclus le temps pour s'installer)
 * Question et réponses (10 min)
 * Affiche du projet de recherche
 
 #### 3. [Conception de robot](robotDesign.md)
-* Presentation du résumé de conception de robot (4 min) (nous avons accès à une table de pratique avec un ensemble de défis à Western)
+* Présentation du résumé de conception de robot (4 min) (nous avons accès à une table de pratique avec un ensemble de défis à Western)
 * Question et réponses (11 min)
 * [Résumé de conception de robot (RDES)](https://drive.google.com/file/d/1VC3oS6zkFRucYmjoOFKwcpcF8nQUieVT/view)
 * Diagrams demontrant le programme du robot (sur papier or ordinateur) 
