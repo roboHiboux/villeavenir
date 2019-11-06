@@ -40,9 +40,8 @@ Deux matchs d'entraînement et trois matchs de tournoi de 2.5 min; possibilité 
 
 #### [Roles](roles.md)
 
-#### Autre Choses
+#### [Autres Liens](liens.md)
 
-[Liens utiles](liens.md)
 
 # Nouvelles 
 > #### 4 Nov - Projet de recherche
