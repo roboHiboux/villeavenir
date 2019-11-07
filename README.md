@@ -44,6 +44,9 @@ Deux matchs d'entraînement et trois matchs de tournoi de 2.5 min; possibilité 
 
 
 # Nouvelles 
+> #### 6 Nov - Document FLL: ["CONSENT AND RELEASE AGREEMENT"](https://www.firstinspires.org/sites/default/files/uploads/2017-2018%20CONSENT%20AND%20RELEASE%20AGREEMENT%20ENGLISH.pdf)
+> * Madame Elizabeth à envoyée ce document avec les enfants.  Ce document est obligatoire pour participer à la compétition à western.  S.V.P. signer et retourner à l'école.
+
 > #### 4 Nov - Projet de recherche
 > * on commence a trouver un [problème](projet.md) a resoudre
 
