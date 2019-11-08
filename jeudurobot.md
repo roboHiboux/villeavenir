@@ -34,7 +34,7 @@
 
 #### [LEGORobotics Mr. Hino](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ/videos)
 
-#### [Suivre une ligne](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-medium-motor-driving-base-e66e2fc0d917485ef1aa023e8358e7a7.pdf)
+#### [Suivre une ligne](http://flltutorials.com/translations/en-us/RobotGame/FindingLines.pdf)
 
 #### Gyro - gyroscope nécessite un ordinateur portable (ne marche pas avec tablet Apple!)
 * [capteur gyroscopique](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-gyro-sensor-driving-base-a521f8ebe355c281c006418395309e15.pdf)
