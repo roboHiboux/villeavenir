@@ -26,7 +26,7 @@
 #### [Builderdude35](https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g)
 * [Vis sans fin](https://www.youtube.com/watch?v=TQ9hQ_ZXwmM) (Worm Gear)
 * [Vis de Chien](https://www.youtube.com/watch?v=NZbt3tnySyI) (Dog Gear)
-* [Suiveur de ligne proportionnel](https://www.youtube.com/watch?v=uPFfevfpMxs)
+
 
 ### [Instructions de construction pour robot éducateur](https://education.lego.com/en-us/support/mindstorms-ev3/building-instructions)
 
@@ -34,7 +34,9 @@
 
 #### [LEGORobotics Mr. Hino](https://www.youtube.com/channel/UCvuw_UluXNRPKhqK5GU8SrQ/videos)
 
-#### [Suivre une ligne](http://flltutorials.com/translations/en-us/RobotGame/FindingLines.pdf)
+#### Suivre une ligne
+   * [Suiveur de ligne proportionnel - Builderdude35](https://www.youtube.com/watch?v=uPFfevfpMxs)
+   * [Tutoriel - flltutorials](http://flltutorials.com/translations/en-us/RobotGame/FindingLines.pdf)
 
 #### Gyro - gyroscope nécessite un ordinateur portable (ne marche pas avec tablet Apple!)
 * [capteur gyroscopique](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-gyro-sensor-driving-base-a521f8ebe355c281c006418395309e15.pdf)
