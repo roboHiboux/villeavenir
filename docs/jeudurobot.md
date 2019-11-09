@@ -45,6 +45,8 @@
 
 
 # 4. Didacticiel - Mission Grue (exemple de mission)
+### [Solution FLLTutorials](http://flltutorials.com/translations/en-us/Worksheets/CraneMissionTipsFullVersion.pdf)
+
 ### robot
 * [robot de  base](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-rem-driving-base-79bebfc16bd491186ea9c9069842155e.pdf)
 * [élévateur utilisant moteur moyen](https://le-www-live-s.legocdn.com/sc/media/lessons/mindstorms-ev3/building-instructions/ev3-medium-motor-driving-base-e66e2fc0d917485ef1aa023e8358e7a7.pdf)
