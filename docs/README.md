@@ -46,7 +46,7 @@ Deux matchs d'entraînement et trois matchs de tournoi de 2.5 min; possibilité 
 # Nouvelles 
 
 > #### 11 Nov - Logiciels gratuits discuté en classe aujourd'hui
-> * [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation sur un tapis de jeu virtuel avec un robot virtuel)
+> * [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation EV3 sur un tapis de jeu virtuel)
 > * [LEGO MINDSTORMS Education EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software) (logicielle qu'on utilise à l'école)
 
 > #### 11 Nov - Exemples de questions.
