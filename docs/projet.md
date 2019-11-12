@@ -35,6 +35,8 @@ For questions about the Project, visit the Judging FAQ on the FIRST LEGO League 
 
 ### [Rubric des juges](rubricsProject.pdf)
 
+### [exemples de questions](2-InterviewSampleQuestions-Project-Rick.pdf)
+
 # 3. tutoriels
 
 [FLLTutorials](http://flltutorials.com/Project.html)
