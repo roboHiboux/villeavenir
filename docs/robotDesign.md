@@ -14,6 +14,8 @@ for the judges to ask your team questions.
 You must bring your robot, its manipulators, and a diagram, printout or a laptop that shows your
 programming to the robot design judges!
 
+### [exemples de questions](2-InterviewSampleQuestions-RobotDesign-Rick.pdf)
+
 #### [Rubric des juges](rubricsRobotDesign.pdf)
 
 #### Livrables
