@@ -44,6 +44,11 @@ Deux matchs d'entraînement et trois matchs de tournoi de 2.5 min; possibilité 
 
 
 # Nouvelles 
+
+> #### 11 Nov - Logiciels gratuits discuté en classe aujourd'hui
+> * [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation sur un tapis de jeu virtuelle avec un robot virutelle)
+> * [LEGO MINDSTORMS Education EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software) (logicielle qu'on utilise à l'école)
+
 > #### 11 Nov - Exemples de questions.
 > * [Conception de robot](https://github.com/roboHiboux/villeavenir/blob/master/docs/2-InterviewSampleQuestions-RobotDesign-Rick.pdf)
 > * [Valeurs fondamentales](https://github.com/roboHiboux/villeavenir/blob/master/docs/2a-InterviewSampleQuestions-CoreValues-Rick.pdf)
