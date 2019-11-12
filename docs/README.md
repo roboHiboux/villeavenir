@@ -44,6 +44,10 @@ Deux matchs d'entraînement et trois matchs de tournoi de 2.5 min; possibilité 
 
 
 # Nouvelles 
+> #### 11 Nov - Exemples de questions.
+> * [Conception de robot](https://github.com/roboHiboux/villeavenir/blob/master/docs/2-InterviewSampleQuestions-RobotDesign-Rick.pdf)
+> * [Valeurs fondamentales](https://github.com/roboHiboux/villeavenir/blob/master/docs/2a-InterviewSampleQuestions-CoreValues-Rick.pdf)
+
 > #### 11 Nov - Aperçu détaillé du jeu de robot.
 > * [FLL Ask the Referee North Bay And Sudbury 2019](https://www.youtube.com/watch?v=YcbfksBt4sE&feature=youtu.be)
 
