@@ -32,7 +32,9 @@ crazy but treat one another with respect and kindness in the process.”
 
 We expect all team members, volunteers, coaches, and families to behave as Gracious Professionals.
 
-# 3. tutoriels
+# 3. [Exemples de questions](2a-InterviewSampleQuestions-CoreValues-Rick.pdf)
+
+# 4. tutoriels
 * [Activités d'équipe et de valeurs fondamentals](http://archive.ev3lessons.com/web/ev3lessons-v4.9.0/corevalues.html) (ev3lessons)
 * [valeurs fondamentals](http://flltutorials.com/CoreValues.html) (flltutorials)
 * [FLLTutorials](http://flltutorials.com/CoreValues.html)
