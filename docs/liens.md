@@ -20,7 +20,7 @@
 
 ## Logiciels gratuits
 * [LEGO MINDSTORMS Education EV3](https://education.lego.com/en-us/downloads/mindstorms-ev3/software) (logicielle qu'on utilise à l'école)
-* [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation sur un tapis de jeu virtuelle avec un robot virutelle)
+* [Virtual Robotics Toolkit (VRT)](https://www.firstroboticscanada.org/cancode/vrt/) (pratiquer la programmation sur un tapis de jeu virtuel avec un robot virtuel)
 * [Lego Digital Designer](https://www.lego.com/en-us/ldd) (construire des modèles avec des briques LEGO® virtuelles.)
 
 ## Approaches utilisé par d'autres équipes
