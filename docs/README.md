@@ -7,6 +7,8 @@ Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) Londo
 
 [Horaire d'équipe (final)](FLLSchedule2019_Team49360.pdf)
 
+([Horaire generale](FLLSchedule2019_General_Schedule.pdf))
+
 [Ressources pour le défi](challenge.md)
 
 ## Jour de compétition:
