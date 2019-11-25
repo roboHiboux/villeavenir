@@ -5,7 +5,7 @@
 
 Les roboHiboux participent à la compétition [FIRST® LEGO® League (FLL) London](https://www.eng.uwo.ca/outreach/first-robotics/lego-league/) à l'université Western, <b>samedi le 30 Novembre, 2019<b/>.
 
-[Horaire du jour (provisoire)](https://www.eng.uwo.ca/outreach/first-robotics/lego-league/Tentative-Event-Schedule-2019.pdf)
+[Horaire d'équipe (final)](FLLSchedule2019_Team49360.pdf)
 
 [Ressources pour le défi](challenge.md)
 
