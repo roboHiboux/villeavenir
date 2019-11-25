@@ -1,8 +1,8 @@
 # Sites FLL
 
-## Horaires du jour
+## Horaire du jour
 
-* [Horaire d'équipe (final)](FLLSchedule2019_Team49360.pdf)
+* [Horaire d'équipe](FLLSchedule2019_Team49360.pdf)
 * [Horaire generale](FLLSchedule2019_General_Schedule.pdf)
 * [Horaire des juges](FLLSchedule2019_JudgingSchedule.pdf)
 * [Horaire des matchs](FLLSchedule2019_MatchSchedule.pdf)
