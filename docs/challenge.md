@@ -1,5 +1,12 @@
 # Sites FLL
 
+## Horaires du jour
+
+* [Horaire d'équipe (final)](FLLSchedule2019_Team49360.pdf)
+* [Horaire generale](FLLSchedule2019_General_Schedule.pdf)
+* [Horaire des juges](FLLSchedule2019_JudgingSchedule.pdf)
+* [Horaire des matchs](FLLSchedule2019_MatchSchedule.pdf)
+
 ## [Ressources CITY SHAPER](https://www.firstinspires.org/resource-library/fll/challenge-and-resources)
 
 * [Défi](https://firstinspiresst01.blob.core.windows.net/fll/2020/city-shaper-challenge.pdf)
