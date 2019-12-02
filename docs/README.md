@@ -45,6 +45,9 @@ Deux matchs d'entraînement et trois matchs de tournoi de 2.5 min; possibilité 
 
 
 # Nouvelles 
+> #### 2 Dec - Resultats
+> * [Tableau de bord](https://www.flltournament.com/Scoreboard.aspx?TID=22020)
+
 > #### 19 Nov - clarification de la Mission 11 Architecture innovante
 > * Bien que vous avez permission de compléter <b>Mission 13 Rénovation Durable</b> et <b>Mission 11 Architecture Innovante</b> en même temps que <b>Mission 12 Conception et construction</b>, Mission 11 ne doit pas etre en contact avec Mission 12 et les équipes risquent de perdre des points si elles ne respectent pas la règle de non-contact.
 
