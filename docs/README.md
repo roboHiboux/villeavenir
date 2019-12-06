@@ -45,6 +45,9 @@ Deux matchs d'entraînement et trois matchs de tournoi de 2.5 min; possibilité 
 
 
 # Nouvelles 
+> #### 6 Dec - Images de la compétition
+> * [Images](https://www.facebook.com/pg/westernuEng/photos/?tab=album&album_id=539192496663259)
+
 > #### 2 Dec - Resultats
 > * [Tableau de bord](https://www.flltournament.com/Scoreboard.aspx?TID=22020)
 
